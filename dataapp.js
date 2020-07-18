@@ -26,6 +26,7 @@ async function getInfo(name) {
 
 	let uuid = await getUUIDFromName(name);
 	if (uuid === undefined) return 'Invalid name';
+	info.uuid = uuid;
 
 	let htmlContent = await needle('https://namemc.com/profile/' + uuid);
 
