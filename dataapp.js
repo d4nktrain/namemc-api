@@ -1,13 +1,4 @@
 const needle = require('needle');
-const axios = require('axios');
-
-String.prototype.insertDashes=function(indexes) {
-	let returnString = this;
-	for (let i = 0; i < indexes.length; i++) {
-		returnString = returnString.substring(0, indexes[i]) + '-' + returnString.substring(indexes[i]);
-	}
-	return returnString;
-};
 
 async function genResponse(name) {
 	let info = {
