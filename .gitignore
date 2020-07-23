@@ -5,4 +5,4 @@
 node_modules/
 
 # Sensitive Info
-examples/bot_details.json
+examples/discord/bot_details.json

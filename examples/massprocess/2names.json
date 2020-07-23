@@ -1,0 +1,6316 @@
+{
+	"22": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "22",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"22"
+				],
+				"uuid": "3a8cc054182a4bd89a3322bebc69fa5b",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"23": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "23",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"23"
+				],
+				"uuid": "e924088087b34b7d9ff3edb5b313e89e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"24": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "24",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/24.png",
+				"nameHistory": [
+					"24"
+				],
+				"uuid": "9978b8c0b04a4aa28845f1540494eb0b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"32": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "32",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"32"
+				],
+				"uuid": "4c84a8e16dfe4043b3e2a9fcb72ebe25",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"36": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "36",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"36"
+				],
+				"uuid": "e64386320c0a450c8f42e825296ea0b7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"44": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "44",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/44.png",
+				"nameHistory": [
+					"44"
+				],
+				"uuid": "998024c7eab9422fa53d3bf0897f64db",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"46": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "46",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"46"
+				],
+				"uuid": "0fcb284d40e64d7988aff4965b2b0da9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"69": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "69",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/69.png",
+				"nameHistory": [
+					"69"
+				],
+				"uuid": "ba4129673cd14bc0bd156fe33de19a98",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"90": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "90",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"90"
+				],
+				"uuid": "1dac6ea338bb449f9a5c0f902eac9a69",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"99": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "99",
+				"officialCapes": [
+					"MineCon 2015"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"99"
+				],
+				"uuid": "208bde5e5dff4f97b1c072974095c898",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"aa": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "aa",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/aa.png",
+				"nameHistory": [
+					"aa",
+					"Aa"
+				],
+				"uuid": "3e39a399ed2d42fa8accc94a58008463",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ab": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ab",
+				"officialCapes": [
+					"MineCon 2013",
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"ab"
+				],
+				"uuid": "13fd21634ff2478da50d91b463e81e0b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ad": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ad",
+				"officialCapes": [
+					"MineCon 2013",
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Ad"
+				],
+				"uuid": "4d2d788f292e4321972d8f3d89bc020a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ai": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ai",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Ai"
+				],
+				"uuid": "b0de929825414c1689249f1ef6882483",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"aj": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "AJ",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"AJ"
+				],
+				"uuid": "e017d6cd82654641ab4f206f1000aa34",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"an": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "An",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"An"
+				],
+				"uuid": "5e06eb77696c45e7bbf8a98e4ba558da",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ao": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ao",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"ao"
+				],
+				"uuid": "4e0862f937154354b54380aac8f846b9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"au": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Au",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Au"
+				],
+				"uuid": "6b0efd9303c94381839e8ca9000343c5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"av": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Av",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "http://s.optifine.net/capes/Av.png",
+				"nameHistory": [
+					"Av"
+				],
+				"uuid": "4fa08168e317467eb239a15312da37e0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"az": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "az",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"az"
+				],
+				"uuid": "595f97ae428e44599b2cefddd49f383d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"a1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "A1",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"A1"
+				],
+				"uuid": "294d1233128147b3a2a456c02ae8c919",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"a2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "a2",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"a2"
+				],
+				"uuid": "87d1a6d37cb548a49ba588b5e60ffdfd",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"bb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "bb",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"bb"
+				],
+				"uuid": "fbc2dc1843cb438ab4e666dbad0e9e8c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"bf": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Bf",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Bf"
+				],
+				"uuid": "abd578d0aa614531bbe5c8fd6b4389d2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"bg": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "BG",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"BG"
+				],
+				"uuid": "091d08401aca40438e888d782fdcad3e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"bj": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "bj",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"bj"
+				],
+				"uuid": "68e5a4ef532e46759f576a12d620481a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"bp": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "BP",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"BP"
+				],
+				"uuid": "0e19684ff8064f838250638951402980",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"b9": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "b9",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/b9.png",
+				"nameHistory": [
+					"b9"
+				],
+				"uuid": "7e3820e959544cc2a14251d22b557df9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"b_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "b_",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/b_.png",
+				"nameHistory": [
+					"b_"
+				],
+				"uuid": "22870d7939e74ffe9b9b1c5bbbfe24f6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"cb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "CB",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/CB.png",
+				"nameHistory": [
+					"CB"
+				],
+				"uuid": "6606030c543b486b830c1c40a29da88d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"cc": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "cc",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"cc"
+				],
+				"uuid": "2ea674bded404d79affedff7545366e7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"cl": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "CL",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"CL"
+				],
+				"uuid": "b34de6551903486aaa00d3917374a95b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"cq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "cq",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"cq"
+				],
+				"uuid": "9e67c027e7cb4ce0b75a725fde80a761",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"c4": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "C4",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"C4"
+				],
+				"uuid": "f18c700363c343cd89bfec5580672766",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"c5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "C5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"C5"
+				],
+				"uuid": "ad9654d1995b463abba30cdfdd953417",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"c8": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "C8",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"C8"
+				],
+				"uuid": "9592fe25056d415bbb92992d5dab9206",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"da": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "da",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"da"
+				],
+				"uuid": "e9bc794422ae4e6db63749d3115a29f9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"de": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "De",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/De.png",
+				"nameHistory": [
+					"De"
+				],
+				"uuid": "c6276e308ab34ff087c3cc2699b17ef0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"dg": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "DG",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/DG.png",
+				"nameHistory": [
+					"DG",
+					"Dg"
+				],
+				"uuid": "1328187f6cdd41278dc41c68a8e99a5c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"dh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Dh",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Dh"
+				],
+				"uuid": "4665253c61034364a272dd02ac73c93f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"dq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "DQ",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"DQ"
+				],
+				"uuid": "c0c716e81e5e4803a22965ddceca1d9e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"dv": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "dv",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/dv.png",
+				"nameHistory": [
+					"dv"
+				],
+				"uuid": "a17b0f8a473c4cba9fcb4a2ef05f2845",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"dy": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Dy",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Dy"
+				],
+				"uuid": "237e9cfa50d8498fb1c16f70d16f2d58",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"d2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "D2",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/D2.png",
+				"nameHistory": [
+					"D2"
+				],
+				"uuid": "f0fa6acacfdc4463b3fe45499174bd31",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"d5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "D5",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/D5.png",
+				"nameHistory": [
+					"D5"
+				],
+				"uuid": "74d2c2ffb5cf49b8be47e63f03012243",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"d8": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "D8",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"D8"
+				],
+				"uuid": "95c95512d784408e8f5de49b702db189",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ea": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "EA",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/EA.png",
+				"nameHistory": [
+					"EA"
+				],
+				"uuid": "c215a9ecbe3a4fd5bd7b95762056d027",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"eb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Eb",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Eb"
+				],
+				"uuid": "94a0ae9dda14447c838d54e9c81ac9a2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"eg": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "eg",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"eg"
+				],
+				"uuid": "ec6fbe40b21f496bb12c851ec3c1a373",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"en": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "En",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"En"
+				],
+				"uuid": "05aebf4ff7d84f58bd907e7302f02afc",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"er": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "er",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/er.png",
+				"nameHistory": [
+					"er"
+				],
+				"uuid": "698cbb9b35664e63acfaab1d7ed8c1ac",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"et": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ET",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/ET.png",
+				"nameHistory": [
+					"ET"
+				],
+				"uuid": "f93b0ce0f68d41f19a454aa1ed8d81b6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"eu": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "eu",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"eu"
+				],
+				"uuid": "16caaa631165410aa0f149873012b46f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ev": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ev",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Ev"
+				],
+				"uuid": "9705fb8707614fa99fa0e645cdb2b59c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ew": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ew",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Ew"
+				],
+				"uuid": "7c6055c2ed6e4c9093babf7f9257272b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ex": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ex",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Ex.png",
+				"nameHistory": [
+					"Ex"
+				],
+				"uuid": "aa97201df1dc4af3ab0ef15913822026",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ez": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ez",
+				"officialCapes": [
+					"MineCon 2011"
+				],
+				"optifineCape": "http://s.optifine.net/capes/ez.png",
+				"nameHistory": [
+					"ez"
+				],
+				"uuid": "7d043c7389524696bfba571c05b6aec0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"e0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "e0",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/e0.png",
+				"nameHistory": [
+					"e0"
+				],
+				"uuid": "7e8da1d5ebaa46cdb25f9c5a30565314",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"e6": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "e6",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"e6"
+				],
+				"uuid": "b988dbd821c844d4bf4ca40e746ef724",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"fk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "FK",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/FK.png",
+				"nameHistory": [
+					"FK"
+				],
+				"uuid": "40981ae42a1c4bde9bfeee1f9742c4d6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"fn": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "FN",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/FN.png",
+				"nameHistory": [
+					"FN"
+				],
+				"uuid": "583f3111e95b46cfacf5c1244dd98cee",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"fo": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Fo",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Fo.png",
+				"nameHistory": [
+					"Fo"
+				],
+				"uuid": "f919c4e713bb45cf8bf2e5dca70ed1f6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"f1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "F1",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"F1"
+				],
+				"uuid": "e1387c3f0f974a109d8d107a739011f5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"f5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "F5",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/F5.png",
+				"nameHistory": [
+					"F5"
+				],
+				"uuid": "558d596493254f9d8ff5f93dc7216e4a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"f6": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "F6",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"F6"
+				],
+				"uuid": "fbbdaf992e2b435d861ac44ddc141f11",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"f_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "f_",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/f_.png",
+				"nameHistory": [
+					"f_"
+				],
+				"uuid": "fcf832c2b0304b90900958039e3210cf",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"gc": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "GC",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/GC.png",
+				"nameHistory": [
+					"GC"
+				],
+				"uuid": "802fffe310da4c6194dac5a8e03a3eb6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"gx": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Gx",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Gx.png",
+				"nameHistory": [
+					"Gx"
+				],
+				"uuid": "8870802481924be2aee7b0382d89ae92",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"gz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "gz",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"gz"
+				],
+				"uuid": "9d52dc126f234f8eb1338f705a7a9b21",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"g0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "G0",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/G0.png",
+				"nameHistory": [
+					"G0"
+				],
+				"uuid": "aa6f3913fb284329968b68fb52964d0f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"g5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "G5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"G5"
+				],
+				"uuid": "fb906e9cf8c140d0bcb08e89401fec16",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"g6": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "G6",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"G6"
+				],
+				"uuid": "d767aaef612f4f30afcef2db1075b00d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"g7": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "G7",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"G7"
+				],
+				"uuid": "b1c243c6739e4399ae4f74235fdc89ef",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"he": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "he",
+				"officialCapes": [
+					"MineCon 2013",
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"he"
+				],
+				"uuid": "5b941b63c9d24fb3bdc0e0880a63c210",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"hf": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "hf",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"hf"
+				],
+				"uuid": "d37cdc5fb5a146988254594077ce5a01",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ho": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ho",
+				"officialCapes": [
+					"MineCon 2012",
+					"MineCon 2013",
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Ho",
+					"ho",
+					"HO"
+				],
+				"uuid": "a5fd07d32df547ac805c908c182de789",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"hq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Hq",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Hq"
+				],
+				"uuid": "478a65ab3d774a7abc67a89552546170",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"hs": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "HS",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"HS"
+				],
+				"uuid": "a2823480d82d400f913c0feb18d6873e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ht": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ht",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"ht"
+				],
+				"uuid": "d01b80ce2b8f4d9ca266d00b182cbf3a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"hv": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "HV",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/HV.png",
+				"nameHistory": [
+					"HV"
+				],
+				"uuid": "ac8e371214c34c289028632b1544de58",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"hy": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "HY",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/HY.png",
+				"nameHistory": [
+					"HY"
+				],
+				"uuid": "d0848f8abed74aa98d4b7f4c1cdea9aa",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"h4": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "H4",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"H4"
+				],
+				"uuid": "5d3fedc8058140eca3e2401a6ef67c52",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ia": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ia",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/ia.png",
+				"nameHistory": [
+					"ia"
+				],
+				"uuid": "0d42266cf9834830b61db604c7662a59",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ib": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "IB",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"IB"
+				],
+				"uuid": "756e8d9bbc7448a5b5a668d203fe9204",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"id": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "iD",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/iD.png",
+				"nameHistory": [
+					"iD"
+				],
+				"uuid": "d0f40f50796e43a1bc47cfd6d3e38716",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"if": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "if",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/if.png",
+				"nameHistory": [
+					"if"
+				],
+				"uuid": "a2a645ba8f5b4af49bc5157823cb30e5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ih": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "IH",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"IH"
+				],
+				"uuid": "545f3740327f45dd9ccd3128d47ea42f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"iq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Iq",
+				"officialCapes": [
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Iq"
+				],
+				"uuid": "5af0c69b3ac74115aa46cf4cbd33a9c7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"iw": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "IW",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/IW.png",
+				"nameHistory": [
+					"IW"
+				],
+				"uuid": "304205ae125b495c8accc4d83bcbeeff",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"i0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "i0",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"i0"
+				],
+				"uuid": "5028d8a53ac145c5a92b1af0e286b30f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"i2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "i2",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/i2.png",
+				"nameHistory": [
+					"i2"
+				],
+				"uuid": "a348a8608c8b475fb793d556d45252a7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"i4": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "i4",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/i4.png",
+				"nameHistory": [
+					"i4"
+				],
+				"uuid": "d72f8fa31f4b4ddc95e04bd6bf1629be",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"i8": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "i8",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"i8"
+				],
+				"uuid": "742408728da244fb9d5acae51ab2dc39",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"jd": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "JD",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"JD"
+				],
+				"uuid": "e759fc86e910465498046d7bf80cdf80",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"jh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "jh",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/jh.png",
+				"nameHistory": [
+					"jh"
+				],
+				"uuid": "1fad63ade09f4305a9eb7beaca8f2b6f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"jo": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Jo",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Jo.png",
+				"nameHistory": [
+					"Jo"
+				],
+				"uuid": "52c57de9ecb6411c92f25d97018f5409",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"jw": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "JW",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/JW.png",
+				"nameHistory": [
+					"JW"
+				],
+				"uuid": "f183e81f64844d84b0e810ab680af438",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"jx": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "JX",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"JX"
+				],
+				"uuid": "668c9b1218704c669f14f72c624e3ce5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"j6": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "J6",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"J6"
+				],
+				"uuid": "4c56fd42265549e7bfb0a14e5fb98a50",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"kh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "kh",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/kh.png",
+				"nameHistory": [
+					"kh"
+				],
+				"uuid": "800e91b3ebba4730b1d760dcb968f5c1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"kk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "kk",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/kk.png",
+				"nameHistory": [
+					"kk"
+				],
+				"uuid": "4100eb0d1bbd473894d3a26dd1b23b47",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"kn": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Kn",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Kn"
+				],
+				"uuid": "fe1bd7f2e81a48308a2ad74d350a6ef1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"kq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "kq",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"kq"
+				],
+				"uuid": "da1a7bbe1a714e8bb2153c0eb524a5d1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"kx": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Kx",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Kx"
+				],
+				"uuid": "e0db8e56365b42b8be67832bf281073b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"k2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "K2",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"K2"
+				],
+				"uuid": "239d054324244a10a7053ec3fb0ca2a1",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"k4": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "k4",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/k4.png",
+				"nameHistory": [
+					"k4"
+				],
+				"uuid": "58d9d319850f477e9df89a1a4b6200f1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"k_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "K_",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/K_.png",
+				"nameHistory": [
+					"K_"
+				],
+				"uuid": "743732e0c3174aa08b7ca581e85bdac2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"lb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "LB",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"LB"
+				],
+				"uuid": "d847723b0ef24523827cc053fee9768a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"lc": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "lc",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"lc"
+				],
+				"uuid": "fc13c0ee7afc4819b494c8001b94074f",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"lf": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "lF",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"lF"
+				],
+				"uuid": "9c5ea77262f94cd9896c613a787664e2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"lj": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "LJ",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"LJ"
+				],
+				"uuid": "32367a341ccd4d159ab3f57ba7c68cfb",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"lk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "lk",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/lk.png",
+				"nameHistory": [
+					"lk",
+					"LK"
+				],
+				"uuid": "9f48b0f45f9a43c693659a11631a492a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ln": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "LN",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"LN"
+				],
+				"uuid": "0b4c4a746c8c4ebd821ea9bacaff8f63",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"mb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "mb",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"mb"
+				],
+				"uuid": "3b2f4e1298ad4eb899ba726a33724db1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"mr": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Mr",
+				"officialCapes": [
+					"MineCon 2011"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Mr"
+				],
+				"uuid": "84f4510faa5e49b8a7bce4e7dd7a6598",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"mz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "mz",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"mz"
+				],
+				"uuid": "d216debf4cdc4195912a376512b98656",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"m0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "M0",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/M0.png",
+				"nameHistory": [
+					"M0"
+				],
+				"uuid": "588ec29a1f4a4f6cbaa0032bf4c67513",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"m3": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "m3",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"m3"
+				],
+				"uuid": "73921a49012944ddbe25300f36750728",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"m5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "m5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"m5"
+				],
+				"uuid": "a86bf03a32bc4963aa9bdead1118261f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"m6": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "m6",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"m6"
+				],
+				"uuid": "16b57b5715f84fbfa32fc574f07e6790",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nf": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "nf",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/nf.png",
+				"nameHistory": [
+					"nf"
+				],
+				"uuid": "caa7814203ea45c5bdc6dc7b1ad89b0f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "NH",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"NH"
+				],
+				"uuid": "2d8a7db8ac894a4dba3942136b696bc6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "NK",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"NK"
+				],
+				"uuid": "c637dbec4bf84777ac0c019d449a0919",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nm": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "nm",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"nm"
+				],
+				"uuid": "b6d61487c6fc42048260daef8ef77ae0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nu": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Nu",
+				"officialCapes": [
+					"MineCon 2015"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Nu"
+				],
+				"uuid": "249f4ff651a44c77a8a29e4c639d185e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nv": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "nv",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"nv"
+				],
+				"uuid": "37e31d20246043759f0887bf0992550b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nx": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "NX",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/NX.png",
+				"nameHistory": [
+					"NX"
+				],
+				"uuid": "7b5b91611153447c82c6ea89eb775226",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"nz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Nz",
+				"officialCapes": [
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Nz"
+				],
+				"uuid": "51572ca07c354d9794f926e853e8dee9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"n0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "N0",
+				"officialCapes": [
+					"MineCon 2013",
+					"MineCon 2015"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"N0",
+					"n0"
+				],
+				"uuid": "14eb0fb2bc49441b9e15bc0928a969c9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"n1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "n1",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/n1.png",
+				"nameHistory": [
+					"n1"
+				],
+				"uuid": "0b53fb46f1d14d0f94b2ea9dca45c152",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"oj": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "OJ",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/OJ.png",
+				"nameHistory": [
+					"OJ"
+				],
+				"uuid": "055fc754087c45bcbcdf53da06f5291f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ok": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ok",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"ok"
+				],
+				"uuid": "047bae4bd3d64ebfabba73fad883895f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"os": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "os",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/os.png",
+				"nameHistory": [
+					"os"
+				],
+				"uuid": "d28310a784b74dea8132cec08eaaa3fd",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ot": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "OT",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"OT"
+				],
+				"uuid": "62601d1a85b942698db21853c515fbc2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"o2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "O2",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"O2"
+				],
+				"uuid": "cfa8b09aece84afba5234237065b102b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"o3": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "o3",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"o3"
+				],
+				"uuid": "b1d05355c009473aa1e3f1588939da11",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"o9": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "o9",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"o9"
+				],
+				"uuid": "9633c52aab00462f92ce90b49de036af",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"o_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "O_",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"O_"
+				],
+				"uuid": "483c4394fe5448da89e450ab58812eae",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"pa": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "pa",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"pa"
+				],
+				"uuid": "c97c5d37665f4bfda997b0888c6bccb4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"pb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "pb",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/pb.png",
+				"nameHistory": [
+					"pb",
+					"PB"
+				],
+				"uuid": "fc6606ad94524085ac421b97284b7a38",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"pc": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "PC",
+				"officialCapes": [
+					"MineCon 2011"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"PC"
+				],
+				"uuid": "5d28cc91dfda46d3880224147e2b70c4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"pi": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "pi",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/pi.png",
+				"nameHistory": [
+					"pi"
+				],
+				"uuid": "0a803d7a73f04e599620299d405f1317",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"pr": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "PR",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/PR.png",
+				"nameHistory": [
+					"PR"
+				],
+				"uuid": "5d4fb824d19a45b1a4f2a43e0ec1088e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"px": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "pX",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/pX.png",
+				"nameHistory": [
+					"pX"
+				],
+				"uuid": "0400f3d656a64ecea6406f0657d760c4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"p2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "p2",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/p2.png",
+				"nameHistory": [
+					"p2"
+				],
+				"uuid": "6218f0dc21344d2eb53886dc07d04a65",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"p4": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "p4",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"p4"
+				],
+				"uuid": "aa43874b97184657868dc2addf90e6b3",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"p7": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "p7",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"p7"
+				],
+				"uuid": "921722548d7e48dbad91f08a11e75724",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"qf": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "qf",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"qf"
+				],
+				"uuid": "077b561bfbba4c65b7ac890639f7d769",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"qh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "qh",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/qh.png",
+				"nameHistory": [
+					"qh"
+				],
+				"uuid": "cc8a54b444ca4364b7ace41a745ff42b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"qi": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Qi",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Qi"
+				],
+				"uuid": "ad80ec654a684ed690cd095c9490fded",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ql": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "qL",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"qL"
+				],
+				"uuid": "2c75447334ee4d478ead7efa33b2c264",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"qn": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "qN",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"qN"
+				],
+				"uuid": "1aa24615bfc64e3ca4aac79ca69eabdd",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"qp": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "qp",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/qp.png",
+				"nameHistory": [
+					"qp"
+				],
+				"uuid": "3df67cb80023475ca51f7210f9e4fcd8",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"qq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "QQ",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"QQ",
+					"qq"
+				],
+				"uuid": "4145f3f5f4e945bb9410798ce42ac1e9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"qz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Qz",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Qz"
+				],
+				"uuid": "e2b8076530c54a1c8a978bb5e013f464",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"q1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Q1",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Q1"
+				],
+				"uuid": "47729db204994e72aac6dfc949dfb9b3",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"q2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "q2",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"q2"
+				],
+				"uuid": "31ba3b1f740945a4a326e33a27128be5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"q5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "q5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"q5"
+				],
+				"uuid": "86ca402f9a3d48de8782fcee86ca6edd",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"q6": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "q6",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/q6.png",
+				"nameHistory": [
+					"q6"
+				],
+				"uuid": "70b6091e1a3f4635922bdefa3ac0ea9e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"q_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "q_",
+				"officialCapes": [
+					"MineCon 2013"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"q_"
+				],
+				"uuid": "22139cf9cc4e444bb7a68f4dcf920d39",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ra": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ra",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Ra.png",
+				"nameHistory": [
+					"Ra"
+				],
+				"uuid": "3d8e4851eecc44778e0d023ecd234662",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"rb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "RB",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"RB"
+				],
+				"uuid": "5186ac33e5f94b7997135e412a787077",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"rd": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "RD",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"RD"
+				],
+				"uuid": "2057b7c12a424d89a971e3214ad8b6a1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"rg": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "RG",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"RG"
+				],
+				"uuid": "f05a2f3a81f6439e8b0923fcacfcab5a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"rk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "rK",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"rK"
+				],
+				"uuid": "4157591d626f48e79982b46bdf3a2c05",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"rl": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "RL",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"RL"
+				],
+				"uuid": "6c58fcde02be4e2b9cee64b353945642",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"rq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "rq",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"rq"
+				],
+				"uuid": "54bffddfaabf4ea4bd8bdd1326a4841d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"rt": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Rt",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Rt"
+				],
+				"uuid": "85c58d05f8ab43d5b12ee843d54d4032",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"r3": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "R3",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"R3"
+				],
+				"uuid": "cf7daebd3f1f4acb925b925d5a35c742",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"r7": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "R7",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"R7"
+				],
+				"uuid": "5106fd4846254128b14824ca296ea4b9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"r_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "R_",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"R_"
+				],
+				"uuid": "9fa6ca0294cc4857a8f5b4ecbef9eac0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"sb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "SB",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"SB"
+				],
+				"uuid": "a8f3ec9499854aca9f322d564ea1caa7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"se": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "SE",
+				"officialCapes": [
+					"MineCon 2015"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"SE"
+				],
+				"uuid": "05ac9b9806a8496986e29fdaff9bb240",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"sm": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "SM",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"SM"
+				],
+				"uuid": "1a657e6d3a124b59bb35459bab20da27",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"sq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Sq",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Sq"
+				],
+				"uuid": "7277fdbdec454df08fb2920b7380120f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"sw": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "sw",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"sw"
+				],
+				"uuid": "64097b126c124cf984e852f2483c44f9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"sz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "SZ",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"SZ"
+				],
+				"uuid": "e092afef6fca47d39cd3f7d6055bfd1f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"s1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "S1",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/S1.png",
+				"nameHistory": [
+					"S1"
+				],
+				"uuid": "84df84d7fbdb444dbf52f9a2a5431f4b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"s2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "S2",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"S2"
+				],
+				"uuid": "8e8938b769014214837cfabc893cbff5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"s3": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "s3",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"s3"
+				],
+				"uuid": "c76bd4629bac4f4ba5744cf5a0dc6f7b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"td": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "TD",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"TD"
+				],
+				"uuid": "647d4d5df49e4944b4f37f8eab95e31e",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"th": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "TH",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/TH.png",
+				"nameHistory": [
+					"TH"
+				],
+				"uuid": "6013f726c5d14f9d8d4723fc0ac3f7a9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"tj": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "TJ",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/TJ.png",
+				"nameHistory": [
+					"TJ"
+				],
+				"uuid": "ff0a3c89c06641e9b47bcc3479905d9b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"tk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "TK",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"TK"
+				],
+				"uuid": "969ecc54205f463e903045e2f5808ca1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ts": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "TS",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"TS"
+				],
+				"uuid": "215a03e076f449959187ce0b4a71ac23",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"tx": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "tx",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"tx"
+				],
+				"uuid": "430e243f3d674fc399f1c20751634dc7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"t2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "T2",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"T2"
+				],
+				"uuid": "f3899d5fc8094f64a3d67e2a8a8c9323",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"t5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "T5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"T5"
+				],
+				"uuid": "5d305470fae2469d876fbce4de7e2913",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"t9": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "T9",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"T9"
+				],
+				"uuid": "12e36d0962eb4f9992fde6a50df677bb",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"t_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "T_",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"T_"
+				],
+				"uuid": "b517c10d911c4f3d9cc12b99fd3ae306",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ub": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "UB",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"UB"
+				],
+				"uuid": "b911b37fa43d4a83999c5147daa007ee",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ud": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "UD",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"UD"
+				],
+				"uuid": "59ebbc6614694ad4af87ea2081307f67",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ue": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "UE",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"UE"
+				],
+				"uuid": "5f12d385daf645e487bf5c1f850c5e50",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"uh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "uh",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"uh"
+				],
+				"uuid": "a131097050b840d2ad2a93a643874558",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"um": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "um",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"um"
+				],
+				"uuid": "07e06430e5e34268a82a3ed228a8f7ed",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"un": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "un",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/un.png",
+				"nameHistory": [
+					"un"
+				],
+				"uuid": "80ae1ece12774d5797932607d591330c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"up": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "up",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"up"
+				],
+				"uuid": "7d9e24c29d0f479f81c727389624ebb2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ur": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ur",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Ur"
+				],
+				"uuid": "391b1fb01b0c4bb1906130b2d75a1dab",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ut": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ut",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"ut"
+				],
+				"uuid": "23c1c09fad9740d9a4ce8fde59f5a67d",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"uw": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "UW",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"UW"
+				],
+				"uuid": "c7d350a1b4b64c74acd47b12de880550",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ux": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Ux",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Ux.png",
+				"nameHistory": [
+					"Ux"
+				],
+				"uuid": "5e7bf7cd29c34b7cb53375a8fba167c5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"uy": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "uy",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/uy.png",
+				"nameHistory": [
+					"uy"
+				],
+				"uuid": "6a1cf959b6b646e390d514385fddee53",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"uz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "uz",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"uz"
+				],
+				"uuid": "107c3529360848a79821790a06dfc21f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"u0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "u0",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/u0.png",
+				"nameHistory": [
+					"u0"
+				],
+				"uuid": "45cb305008194b09a31762057e9e691f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"u1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "U1",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"U1"
+				],
+				"uuid": "669bb8036aa24446871aed28524fff0f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"u5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "U5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"U5"
+				],
+				"uuid": "e61fe05e3cfd45f7ae6129b49bf7c694",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"u8": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "u8",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/u8.png",
+				"nameHistory": [
+					"u8"
+				],
+				"uuid": "3dfbad6649b54807bb67b68b9af0e446",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"u9": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "u9",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"u9"
+				],
+				"uuid": "e1911ea25acf4660bef99ad8ad665f4d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"vi": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "VI",
+				"officialCapes": [
+					"MineCon 2015"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"VI",
+					"vi"
+				],
+				"uuid": "2e52207f005b44a2975d78bfabcae27d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"vl": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "VL",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/VL.png",
+				"nameHistory": [
+					"VL"
+				],
+				"uuid": "ba17f53a12b0409cb04ea3aeefd6e7cf",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"vq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "vq",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/vq.png",
+				"nameHistory": [
+					"vq"
+				],
+				"uuid": "53dbcce5459f4f8ab39d2b5c104f61b9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"vr": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "VR",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"VR"
+				],
+				"uuid": "47c39ccea57c40c8a93dcab0665a864e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"vt": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "VT",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"VT"
+				],
+				"uuid": "4ae3e48d31ab4f378688b3e6e69f6667",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"v5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "v5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"v5"
+				],
+				"uuid": "afeb33c35d834baab6ff12ece12e2e86",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"v8": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "v8",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"v8"
+				],
+				"uuid": "aa222d24165a45019b1ab116ed60089d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"v9": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "V9",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/V9.png",
+				"nameHistory": [
+					"V9"
+				],
+				"uuid": "62be9c3406ce49bb8276828f1290ebfa",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wd": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "WD",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/WD.png",
+				"nameHistory": [
+					"WD"
+				],
+				"uuid": "f1b6f43093044c82a6d3e95ef91736a5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wg": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "wg",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"wg"
+				],
+				"uuid": "c34379abcb7b4b6c970111aee6483be2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wi": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "wi",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"wi"
+				],
+				"uuid": "5799b1011fde42609b5531416bf67282",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "WK",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/WK.png",
+				"nameHistory": [
+					"WK"
+				],
+				"uuid": "1aedb19723084235abbc9d60015daffc",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wm": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "wm",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/wm.png",
+				"nameHistory": [
+					"wm"
+				],
+				"uuid": "0baf15c8aee44e66933f11bb45609ac6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wo": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Wo",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Wo"
+				],
+				"uuid": "f4b5a7a1fc0a4f3eb77f612c424ae9ff",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wp": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "wp",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/wp.png",
+				"nameHistory": [
+					"wp"
+				],
+				"uuid": "35e20b52e01949a0ab7a4339aa254a42",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"wz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "wz",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"wz"
+				],
+				"uuid": "679dde5977004e018064c7ade73506e4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"w0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "w0",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"w0"
+				],
+				"uuid": "02381689a96844d58cbf3bfcedb8886d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"w3": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "W3",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"W3"
+				],
+				"uuid": "6c10d01eaa5040d9ad372ecb66599cf6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xd": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "XD",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/XD.png",
+				"nameHistory": [
+					"XD"
+				],
+				"uuid": "060a9979ebb6419991cfa3d32a540541",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xf": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "xf",
+				"officialCapes": [
+					"MineCon 2012"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"xf"
+				],
+				"uuid": "4c1278c8d85d4d02b67118f627e85b49",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xg": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "xg",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/xg.png",
+				"nameHistory": [
+					"xg"
+				],
+				"uuid": "ef81c18acc414fea821e05eed039fd65",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"xh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "XH",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/XH.png",
+				"nameHistory": [
+					"XH"
+				],
+				"uuid": "9732afbc7e8f4c6da78b7cf26127b19b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xj": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Xj",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Xj"
+				],
+				"uuid": "1507079da48f47c7a54d0fb4db1b88b4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xk": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Xk",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Xk"
+				],
+				"uuid": "ed66a35c00f3421895400e72c8e96cb2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xm": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "XM",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"XM"
+				],
+				"uuid": "cb3f29b2b73c497f86666d00d4f8cc2a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xq": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "xq",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"xq"
+				],
+				"uuid": "3574951e63934328a746575b62b4842e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xs": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "xs",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"xs"
+				],
+				"uuid": "6272a9cf20d94329b90a38bf2b13a91e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xu": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "xu",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"xu"
+				],
+				"uuid": "76d8ee3aa9ac405eb44f8e716b168d94",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xx": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "xx",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/xx.png",
+				"nameHistory": [
+					"xx"
+				],
+				"uuid": "450cf021f0084a8d9204ef2d786e985d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"xz": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Xz",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Xz.png",
+				"nameHistory": [
+					"Xz"
+				],
+				"uuid": "abbd641566bf4d4b859b36fcafa61c5a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"x0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "X0",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/X0.png",
+				"nameHistory": [
+					"X0",
+					"x0"
+				],
+				"uuid": "fa6f529bc30b45c6843c704531c6344f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"x1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "x1",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/x1.png",
+				"nameHistory": [
+					"x1"
+				],
+				"uuid": "c6fb65f93e04414993658564fd5d8fa4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"x2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "x2",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/x2.png",
+				"nameHistory": [
+					"x2"
+				],
+				"uuid": "77265716f6d144ebabf6fbba894a9223",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"x5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "X5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"X5"
+				],
+				"uuid": "b1ccbec5efcd427b8b7fe07e68f49fce",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"x6": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "x6",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"x6"
+				],
+				"uuid": "8345522ee87e49db8ad42b3896993b48",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"x9": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "X9",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/X9.png",
+				"nameHistory": [
+					"X9"
+				],
+				"uuid": "c1739ae1cda8487b8ab225567ae8bccd",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"x_": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "X_",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/X_.png",
+				"nameHistory": [
+					"X_"
+				],
+				"uuid": "a9836ec0077447a19d8ff4e6c70ff428",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"yc": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "YC",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"YC"
+				],
+				"uuid": "5ec2fa8d62104cce93989bf38a2d4e47",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"yh": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "YH",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"YH"
+				],
+				"uuid": "aede065944d441248c368d293b9d186a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"yi": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "yi",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/yi.png",
+				"nameHistory": [
+					"yi"
+				],
+				"uuid": "2ccdc352260f491ca76c03e027a50334",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"ym": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ym",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"ym"
+				],
+				"uuid": "1a1c66136bc44070b9ba48c4cd80dcad",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"yo": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Yo",
+				"officialCapes": [
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"Yo",
+					"yo",
+					"Yo"
+				],
+				"uuid": "05eeba1eb7044e33a9781e7cbdde6dc7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"yu": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "yu",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"yu"
+				],
+				"uuid": "5b3eb2282f9e45dc9548b27749a7e583",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"yw": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "yw",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"yw"
+				],
+				"uuid": "7a25896ed11342a4bb57840dfc614dfb",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"yx": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Yx",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Yx"
+				],
+				"uuid": "3f52f7fc55804fdd99bf1918d1967220",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"yy": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "yy",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/yy.png",
+				"nameHistory": [
+					"yy"
+				],
+				"uuid": "56b10c74702c49a295191cd676568ea0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"y5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "y5",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/y5.png",
+				"nameHistory": [
+					"y5"
+				],
+				"uuid": "cb70a9f886ed4dea963de1e78d97b603",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"y7": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "y7",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/y7.png",
+				"nameHistory": [
+					"y7"
+				],
+				"uuid": "33f0dc158c504bdda5d045fdc7b0cbaf",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"zb": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "zb",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/zb.png",
+				"nameHistory": [
+					"zb"
+				],
+				"uuid": "63e8499d9db14d548c3d64acf830f0f5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"zf": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ZF",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/ZF.png",
+				"nameHistory": [
+					"ZF"
+				],
+				"uuid": "45aef37decca487d84741893d3ff8659",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"zm": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ZM",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"ZM"
+				],
+				"uuid": "f374cc5fcabb437495ba1f8f4832751b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"zr": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "ZR",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"ZR"
+				],
+				"uuid": "8121a6c6fa824d0ba58592ab0da53a7c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"zs": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "zs",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"zs"
+				],
+				"uuid": "a1c859a9994e4301a520b2dabce7669f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"zt": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "zt",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/zt.png",
+				"nameHistory": [
+					"zt"
+				],
+				"uuid": "fe4d8cd757cc4b0db24941155c1cfb50",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"zw": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Zw",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Zw"
+				],
+				"uuid": "d32ca748724248ccb40e42884f1cc831",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"z0": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Z0",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Z0.png",
+				"nameHistory": [
+					"Z0"
+				],
+				"uuid": "4879cdf662554dfe9460b501f64731b5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"z1": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Z1",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/Z1.png",
+				"nameHistory": [
+					"Z1"
+				],
+				"uuid": "9f963e665d5848e19b59c1f58ed8992f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"z4": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "z4",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/z4.png",
+				"nameHistory": [
+					"z4"
+				],
+				"uuid": "9c5690e17b0848968d6552ba0389b34a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"z5": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "z5",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"z5"
+				],
+				"uuid": "28bd7409b2a8412a91494200a7452ad7",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"z7": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "Z7",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"Z7"
+				],
+				"uuid": "f79601567094465686668ce45fcbfd78",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"0d": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0d",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"0d"
+				],
+				"uuid": "ebd01fb5209f497dad09153dee65341c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"0e": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0e",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"0e"
+				],
+				"uuid": "33e7b62b811a465a9b7c29de32dcd7c2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"0j": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0J",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"0J"
+				],
+				"uuid": "ec3140084cee4564a8d525a6461c497a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"0k": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0k",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"0k"
+				],
+				"uuid": "0eb716a24fb64ddebcd3d655cee4b924",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"0m": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0m",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"0m"
+				],
+				"uuid": "7939a2484aab43ce947a60144520d6b8",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"0r": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0r",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/0r.png",
+				"nameHistory": [
+					"0r"
+				],
+				"uuid": "a315d92b5e724c748d521af820c199f1",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"0w": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0w",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/0w.png",
+				"nameHistory": [
+					"0w",
+					"LGBT",
+					"0w"
+				],
+				"uuid": "4d91810ba85e43f29196afb69c219860",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"0x": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "0x",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"0x"
+				],
+				"uuid": "1df2448477c2402cbba68338d77f15d4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"00": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "00",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"00"
+				],
+				"uuid": "3e315ef366e44f79a08c4f28dba1779b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"03": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "03",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"03"
+				],
+				"uuid": "421d211684cb4435a17f4977bbf6c1f4",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"05": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "05",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/05.png",
+				"nameHistory": [
+					"05"
+				],
+				"uuid": "3984881731f94592a105f4b3279d7b6f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"07": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "07",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"07"
+				],
+				"uuid": "df337f5327fe4c209145acfd3eb2cea9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"09": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "09",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"09"
+				],
+				"uuid": "aafb6f1bdf4e40c0a6cf3cfda736400b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"1d": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "1D",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"1D"
+				],
+				"uuid": "90342cc0b3af4347931a7f610260ede6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"1e": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "1E",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"1E"
+				],
+				"uuid": "8370b94ac8694a59aa2d09b6a80d5f70",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"1m": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "1m",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"1m"
+				],
+				"uuid": "8265a3a814d04034ae5aa8042b014592",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"1p": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "1P",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"1P"
+				],
+				"uuid": "3889deed3b664d7f90617aebadcd2ecd",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"1y": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "1y",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/1y.png",
+				"nameHistory": [
+					"1y"
+				],
+				"uuid": "f42923be7b1d4d1aa647c569f0942000",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2a": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2a",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"2a"
+				],
+				"uuid": "0dc5e94ce8e8413ba1a7b4c6c931b156",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2b": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2B",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/2B.png",
+				"nameHistory": [
+					"2B"
+				],
+				"uuid": "05a33250317d41c6bb3da248ef3adafd",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2e": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2E",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/2E.png",
+				"nameHistory": [
+					"2E"
+				],
+				"uuid": "5e30790499ce4adc9ffdaac6d6782734",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2k": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2k",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"2k"
+				],
+				"uuid": "f123ed4f297248758c362a5262a528b6",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2l": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2L",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"2L"
+				],
+				"uuid": "6fcf24de9e094afe915d53932cbe407a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2o": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2o",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/2o.png",
+				"nameHistory": [
+					"2o"
+				],
+				"uuid": "b569efbe25644b468e3bfcb654d09d47",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2r": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2R",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"2R"
+				],
+				"uuid": "6197b5a7309e43c0a3ea95fd6beb4b2a",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"2u": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "2u",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/2u.png",
+				"nameHistory": [
+					"2u"
+				],
+				"uuid": "3b3eb380367a4dcca7ccad7ae353a770",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"3b": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "3b",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"3b"
+				],
+				"uuid": "dc685a24cfdd4b4783667bcd9faf582c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"3n": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "3n",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"3n"
+				],
+				"uuid": "89341eff5aa547cd918254f4433219e0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"3o": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "3o",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/3o.png",
+				"nameHistory": [
+					"3o"
+				],
+				"uuid": "16aad8be587e4267bc2d516fa96e7d91",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"3s": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "3s",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/3s.png",
+				"nameHistory": [
+					"3s"
+				],
+				"uuid": "1e74fb3734da4333a047df52b0ed9e8f",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"3w": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "3w",
+				"officialCapes": [
+					"MineCon 2015",
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"3w"
+				],
+				"uuid": "de8e264d6f084b469c59f85755dd607b",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"4a": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "4A",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"4A"
+				],
+				"uuid": "33023fd6c4a54878a0e48bb0a3e6b413",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"4f": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "4F",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"4F"
+				],
+				"uuid": "965f6076ddef4f23a1c2483de1adfe06",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"4n": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "4n",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"4n"
+				],
+				"uuid": "a30cae47c7a541f691f7657b3864dff7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"4u": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "4U",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/4U.png",
+				"nameHistory": [
+					"4U"
+				],
+				"uuid": "40cefcee2353460193e3e5a5029e0510",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"4v": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "4v",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"4v"
+				],
+				"uuid": "bcdf51c368a8478a9b28b68f34b027fa",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"4z": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "4z",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/4z.png",
+				"nameHistory": [
+					"4z"
+				],
+				"uuid": "d494adcffd1e41798849a8de55d3a4dc",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"5e": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "5e",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"5e"
+				],
+				"uuid": "f311c21f68764ff3a992fc764dd84534",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"5j": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "5j",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"5j"
+				],
+				"uuid": "4f2ee5304da44b31b8c8b5c822fa5a26",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"5m": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "5m",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"5m"
+				],
+				"uuid": "f25f449f3081469e8e4181fe16cb5f82",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"5n": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "5N",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"5N"
+				],
+				"uuid": "ca2b6c6b4aa6427ab5e176f864311139",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"5r": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "5r",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"5r"
+				],
+				"uuid": "00dc1cb47f4046a79d5e86eb122dfee1",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"5v": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "5v",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"5v"
+				],
+				"uuid": "80a3e82a89794ae3a9b3b17baadd8bf2",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"6a": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "6a",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"6a"
+				],
+				"uuid": "da5fadae330a4038b1cd453dbc31ed0e",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"6f": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "6f",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/6f.png",
+				"nameHistory": [
+					"6f"
+				],
+				"uuid": "f21935643f794f689e467cda94ef5f51",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"6k": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "6k",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"6k"
+				],
+				"uuid": "d958a0112d694a88a4930159e8439c30",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"7d": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "7D",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"7D"
+				],
+				"uuid": "26d74e7c6bc24f24ab6dddd8a4e6faa3",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"7g": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "7G",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"7G"
+				],
+				"uuid": "13e1d5048d8f4d89bf71180a3720c2d0",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"7l": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "7L",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/7L.png",
+				"nameHistory": [
+					"7L"
+				],
+				"uuid": "d754ac5d1b8d4f65aa19795296c85aae",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"7m": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "7m",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/7m.png",
+				"nameHistory": [
+					"7m"
+				],
+				"uuid": "b99bf0a969814b84b9a75d438c9c77fc",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"7n": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "7n",
+				"officialCapes": [
+					"MineCon 2013",
+					"MineCon 2015"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"7n"
+				],
+				"uuid": "ef01f2da1b284ad6ba8ba2aaf4432e22",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"7q": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "7Q",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"7Q"
+				],
+				"uuid": "57fe4b0fdb784ad8a09c53e61490c674",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"7x": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "7x",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/7x.png",
+				"nameHistory": [
+					"7x"
+				],
+				"uuid": "08894a1c865a4f69ad09e9469ff2507d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"8b": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "8b",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"8b"
+				],
+				"uuid": "7d7bb0751ec64c2894851788db5039ff",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"8c": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "8C",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"8C"
+				],
+				"uuid": "58a80c4710434c299028731f63f3ea9e",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"8g": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "8G",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"8G"
+				],
+				"uuid": "e37077c05a7e46e3afcdf769c39cc4d7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"8j": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "8j",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"8j"
+				],
+				"uuid": "ae12551aff394f6d84761cff548efe14",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"8q": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "8q",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"8q"
+				],
+				"uuid": "f099b13fa5cf41378025bf3cf0893b84",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"8u": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "8U",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"8U"
+				],
+				"uuid": "3ca4adf464af4bc1be8035c1d9bf6efb",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"8v": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "8v",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"8v"
+				],
+				"uuid": "1339dc83355a477581bb285e6638227d",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"9c": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "9c",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/9c.png",
+				"nameHistory": [
+					"9c"
+				],
+				"uuid": "31607b2316c043bdb9f9e4bfc636cfac",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"9h": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "9H",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"9H"
+				],
+				"uuid": "d850b4320afa4c7ab29a83dcc10dbff7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"9l": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "9l",
+				"officialCapes": [],
+				"optifineCape": "http://s.optifine.net/capes/9l.png",
+				"nameHistory": [
+					"9l"
+				],
+				"uuid": "87934870fb2242a0b8fb3ad442a0f249",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"9p": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "9p",
+				"officialCapes": [
+					"MineCon 2015"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"9p"
+				],
+				"uuid": "9d0ec28922344ea8bd1e6607fd6388c9",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"9r": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "9r",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"9r"
+				],
+				"uuid": "ce0856b97cc24507b650f3fb25231767",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"9s": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "9s",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"9s"
+				],
+				"uuid": "4dedd2cd21e04e658f8a611828a0a31f",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"9x": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "9x",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"9x"
+				],
+				"uuid": "b20cd1a8cc774673bbdaffd6cd784759",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_e": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_E",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_E"
+				],
+				"uuid": "1d71d6f424754df1a74b58ee32a6cbac",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_g": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_GGnore",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_GGnore",
+					"_G"
+				],
+				"uuid": "db552bb5b58b4ff0b854de1c5674b2d5",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_j": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_j",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_j"
+				],
+				"uuid": "327ff433f8e643899e99fb7d01cb7e6c",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_k": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_k",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_k"
+				],
+				"uuid": "b0381f9b3ace485d99104c25e2fb9857",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_r": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_R",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_R"
+				],
+				"uuid": "fbf90f20df2441d08bddde1ec7a870d7",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_s": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_S",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_S"
+				],
+				"uuid": "ad59844dc74946a48cd22a6c440e5c2e",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_x": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_X",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_X"
+				],
+				"uuid": "61ec3113daaf44eeb178613d3fe0c7a8",
+				"unmigrated": true,
+				"prename": true
+			}
+		]
+	},
+	"_2": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_2",
+				"officialCapes": [
+					"MineCon 2016"
+				],
+				"optifineCape": "",
+				"nameHistory": [
+					"_2"
+				],
+				"uuid": "524ecdbda34f421b895d56716d38ca68",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	},
+	"_3": {
+		"dupedInfo": [
+			false,
+			-1
+		],
+		"accounts": [{
+				"name": "_3",
+				"officialCapes": [],
+				"optifineCape": "",
+				"nameHistory": [
+					"_3"
+				],
+				"uuid": "0b7c805a198d46d5bda3a94d029a4603",
+				"unmigrated": false,
+				"prename": true
+			}
+		]
+	}
+}
