@@ -2,9 +2,10 @@
   "name": "namemc-api-unofficial",
   "version": "0.1.0",
   "description": "",
-  "main": "webapp.js",
+  "main": "requesthandler.js",
   "dependencies": {
     "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
     "express": "^4.17.1",
     "needle": "^2.5.0"
   }
