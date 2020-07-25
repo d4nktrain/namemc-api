@@ -26,10 +26,6 @@ async function genResponse(name) {
 }
 
 async function getInfo(name_and_number, searchPage) {
-	// let uuid = (await axios.get('https://api.mojang.com/users/profiles/minecraft/' + name)).data.id.insertDashes([8, 13, 18, 23]);
-	// if (uuid === undefined) return 'Invalid name';
-	// info.uuid = uuid;
-
 	let account_info = {
 		name: '',
 		officialCapes: [],
