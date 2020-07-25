@@ -1,1 +1,1 @@
-namemc-api
+unofficial namemc-api
