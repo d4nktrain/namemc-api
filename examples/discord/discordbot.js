@@ -5,6 +5,10 @@ const axios = require('axios');
 
 const details = require('./bot_details.json');
 
+Date.prototype.getESTString = function() {
+	return this.toLocaleString('en-US', { timeZone: 'America/New_York' }) + ' EST';
+};
+
 client.on('ready', () => {
 	console.log('Ready!');
 });
@@ -36,8 +40,8 @@ client.on('message', async msg => {
 					.addField('Name Changes', current_account.nameHistory.length-1)
 					.addField('Name History', current_account.nameHistory)
 					.addField('Unmigrated', current_account.unmigrated ? 'True' : 'False')
-					.addField('First Hypixel Login', hypixel_data.player === null ? 'N/A': new Date(hypixel_data.player.firstLogin))
-					.addField('Most Recent Hypixel Login', hypixel_data.player === null ? 'N/A': new Date(hypixel_data.player.lastLogin));
+					.addField('First Hypixel Login', hypixel_data.player === null ? 'N/A': new Date(hypixel_data.player.firstLogin).getESTString())
+					.addField('Most Recent Hypixel Login', hypixel_data.player === null ? 'N/A': new Date(hypixel_data.player.lastLogin).getESTString());
 				await msg.channel.send(embed);
 			}
 		} catch (e) {
