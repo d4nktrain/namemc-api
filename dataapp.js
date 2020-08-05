@@ -1,31 +1,49 @@
-const needle = require('needle');
+const axios = require('axios');
 
-async function genResponse(name) {
+async function genResponse(name, proxyIn) {
 	let info = {
 		dupedInfo: [false, -1],
 		accounts: [],
 	};
 
+	const axiosConfig = {
+		url: 'https://namemc.com/search?q=' + name,
+		method: 'get'
+	};
+
+	if (proxyIn !== undefined) axiosConfig['proxy'] = {
+		host: proxyIn.host,
+		port: proxyIn.port
+	};
+
+	console.log(axiosConfig);
+
 	// Duped
-	let searchPage = (await needle('https://namemc.com/search?q=' + name)).body.toLowerCase();
-	if (searchPage.includes('error: 429 (too many requests)')) return 'ERROR: 429';
-	let dupeHeaders = searchPage.split('<a href="/profile/' + name.toLowerCase());
-	dupeHeaders.shift();
-	for (let i = 0; i < dupeHeaders.length; i++) {
-		dupeHeaders[i] = dupeHeaders[i].split('"')[0];
+	let searchPage;
+	try {
+		searchPage = (await axios.request(axiosConfig)).data.toLowerCase();
+		if (searchPage.includes('error: 429 (too many requests)')) return 'ERROR: 429';
+		let dupeHeaders = searchPage.split('<a href="/profile/' + name.toLowerCase());
+		dupeHeaders.shift();
+		for (let i = 0; i < dupeHeaders.length; i++) {
+			dupeHeaders[i] = dupeHeaders[i].split('"')[0];
+		}
+
+		if (dupeHeaders.length > 1) info.dupedInfo = [true, dupeHeaders.length-1];
+
+		for (let i = 0; i < dupeHeaders.length; i++) {
+			info.accounts.push(await getInfo(name + dupeHeaders[i], searchPage, proxyIn));
+		}
+		if (info.accounts.length === 0) return 'ERROR: 404';
+
+		return info;
+	} catch (e) {
+		console.log(e);
+		if (String(e).includes('Error: Request failed with status code 429')) return 'ERROR: 429';
 	}
-
-	if (dupeHeaders.length > 1) info.dupedInfo = [true, dupeHeaders.length-1];
-
-	for (let i = 0; i < dupeHeaders.length; i++) {
-		info.accounts.push(await getInfo(name + dupeHeaders[i], searchPage));
-	}
-	if (info.accounts.length === 0) return 'ERROR: 404';
-
-	return info;
 }
 
-async function getInfo(name_and_number, searchPage) {
+async function getInfo(name_and_number, searchPage, proxyIn) {
 	let account_info = {
 		name: '',
 		officialCapes: [],
@@ -37,9 +55,20 @@ async function getInfo(name_and_number, searchPage) {
 	};
 
 	try {
-		let htmlContent = (await needle('https://namemc.com/profile/' + name_and_number)).body;
+		const axiosConfig = {
+			method: 'get',
+		};
 
-		if (htmlContent.includes('Found. Redirecting to ')) htmlContent = (await needle('https://namemc.com' + htmlContent.split('to ')[1])).body;
+		if (proxyIn !== undefined) axiosConfig['proxy'] = {
+			host: proxyIn.host,
+			port: proxyIn.port
+		};
+
+		axiosConfig['url'] = 'https://namemc.com/profile/' + name_and_number;
+		let htmlContent = (await axios.request(axiosConfig)).data;
+
+		axiosConfig['url'] = 'https://namemc.com' + htmlContent.split('to ');
+		if (htmlContent.includes('Found. Redirecting to ')) htmlContent = (await axios.request(axiosConfig)).data;
 
 		// Name
 		let capitalizedName = htmlContent.split('<main class="container">\n')[1].split('>')[1].split('</')[0];
